@@ -50,12 +50,9 @@ header nav ul li a {
 
 section.hero {
     height: 400px;
-    /* border: 1px solid red; */
     padding: 60px 0;
-
     display: flex;
     gap: 10px;
-    /* align-items: center; */
     flex-flow: row nowrap;
 }
 
@@ -82,7 +79,6 @@ section.hero div:first-child p {
     font-size: 18px;
     color: #E5E7Eb;
     margin: 15px 0;
-
     letter-spacing: 1px;
     font-weight: 200;
     line-height: 26px;
@@ -95,7 +91,6 @@ section.hero div:first-child p {
     border-radius: 6px;
     padding: 10px 40px ;
     cursor: pointer;
-
     transition:      0.3s ease-out;
 }
 
@@ -127,12 +122,9 @@ section#information h2 {
     display: flex;
     flex-flow: row nowrap;
     gap: 10px;
-/* 
-    background-color: lightgreen; */
 }
 
 .cards__wrapper .card {
-   /* background-color: #ccc; */
    padding: 24px;
    text-align: center;
    display: flex;
@@ -149,7 +141,6 @@ section#information h2 {
     border-radius: 6px;
 }
 /* *** */
-
 section#quote {
     background-color: #E5E7EB;
     height: 300px;
@@ -171,8 +162,7 @@ section#quote p:last-child {
 section#cta {
     height: 240px;
     display: flex;
-    align-items: center;
-   
+    align-items: center; 
 }
 
 section#cta .container {
@@ -200,7 +190,6 @@ section#cta div:last-child button {
     cursor: pointer;
     transition: 0.3s ease-out;
 }
-
 
 section#cta div:last-child button:hover {
     background-color: #e5e7eb3c;
