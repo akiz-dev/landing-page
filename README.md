@@ -3,22 +3,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
----
-
-## 📖 Índice
-
-- [Descrição](#descrição)  
-- [Projeto ao Vivo](#projeto-ao-vivo)  
-- [Estrutura do Projeto](#estrutura-do-projeto)  
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-- [Funcionalidades](#funcionalidades)  
-- [Como Executar Localmente](#como-executar-localmente)  
-- [Captura de Tela](#captura-de-tela)  
-- [Melhorias Futuras](#melhorias-futuras)  
-- [Contribuindo](#contribuindo)  
-- [Autor](#autor)  
-
 ---
 
 ## 🔹 Descrição
