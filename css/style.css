@@ -60,7 +60,7 @@ section.hero {
 }
 
 section.hero div {
-    /* background-color: lightblue; */
+    background-color: lightblue;
     flex: 1;
 
     display: flex;
